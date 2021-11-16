@@ -1,0 +1,43 @@
+
+body {
+    background-color: rgb(218, 218, 201);
+}
+
+.navbar-brand {
+    letter-spacing: 2px;
+    margin-left: 1.5rem;
+    font-size: 2rem;
+}
+
+.nav-link {
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.card-group {
+    margin: 20px;
+
+}
+
+.algo-card {
+    text-align: center;
+}
+
+.card {
+    border: 2px #212529 solid;
+    text-align: center;
+    margin-left: auto;
+}
+
+.login-form {
+    background-color: rgb(241, 197, 114);
+    margin-top: 2.5rem;
+    border: 2px #212529 solid;
+    width: 600px;
+    display: flex;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+}
